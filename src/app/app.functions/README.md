@@ -23,7 +23,7 @@ The `get-line-item-inventory.js` function serves as a bridge between HubSpot's d
 3. **Inventory Check**
    - For each line item with a SKU:
      - Queries AWS API endpoint for inventory data
-     - Handles timeouts and errors gracefully
+     - Handles timeouts and errors
      - Processes and normalizes inventory response
 
 4. **Response Format**

@@ -1,0 +1,16 @@
+{
+  "name": "Line Item Inventory",
+  "description": "View line items associated with a deal as well as the inventory of the items",
+  "uid": "line_item_inventory",
+  "scopes": ["crm.objects.deals.read", "crm.objects.deals.write", "crm.objects.line_items.read", "crm.schemas.line_items.read", "e-commerce"],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/line-item-inventory-card.json"
+        }
+      ]
+    }
+  }
+}

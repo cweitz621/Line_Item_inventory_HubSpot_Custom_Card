@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Line Item Inventory",
+    "uid": "line_item_inventory",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "Deal_Card_React.jsx"
+    },
+    "objectTypes": [{ "name": "deals" }]
+  }
+} 

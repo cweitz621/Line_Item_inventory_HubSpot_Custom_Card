@@ -1,0 +1,10 @@
+{
+  "name": "line-item-inventory-extension",
+  "version": "0.1.0",
+  "author": "Collin Weitz",
+  "license": "MIT",
+  "dependencies": {
+    "@hubspot/api-client": "^7.0.1",
+    "axios": "^0.27.2"
+  }
+}

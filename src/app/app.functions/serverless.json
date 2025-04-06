@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "get-line-item-inventory": {
+      "file": "get-line-item-inventory.js",
+      "secrets": []
+    }
+  }
+}

@@ -2,6 +2,8 @@
 
 A HubSpot custom card application that displays line item inventory information directly in your deals. This tool helps sales representatives quickly check inventory levels for products in their deals, with real-time inventory data from an external system. In this example the inventory data is coming from an AWS DynamoDB database
 
+![Untitled design](https://github.com/user-attachments/assets/24d5b319-b19d-4430-a12e-5d7e174b0683)
+
 ## Features
 
 - Display line items associated with a HubSpot deal

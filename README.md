@@ -37,14 +37,7 @@ Before you can use this application, you need:
    npm install
    ```
 
-3. Configure your environment:
-   - Create a `.env` file in the root directory
-   - Add your AWS API endpoint:
-     ```
-     AWS_INVENTORY_API_ENDPOINT=your_endpoint_here
-     ```
-
-4. Deploy to HubSpot:
+3. Deploy to HubSpot:
    ```bash
    hs project upload
    ```
